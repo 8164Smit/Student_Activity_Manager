@@ -1,5 +1,3 @@
-<img width="1920" height="1030" alt="p-3" src="https://github.com/user-attachments/assets/8723cb97-8d4a-4044-8d93-59ff4ce380b7" />📌 Project Description – Student Activity Manager
-
 🎓 Student Activity Manager is a simple and efficient React-based project designed to help track student attendance and activities with ease.
 
 ⚡ Built using React + Vite, it offers fast performance, clean structure, and smooth UI rendering.
